@@ -26,6 +26,9 @@
         <activity
             android:name=".activities.MainActivity"
             android:exported="true">
+            <meta-data
+            android:name="android.app.shortcuts"
+            android:resource="@xml/shortcuts" />
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <action android:name="android.service.quicksettings.action.QS_TILE_PREFERENCES" />
