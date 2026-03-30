@@ -1,7 +1,7 @@
 <string name="shortcut_connect_short">Bağlan</string>
-<string name="shortcut_connect_long">ByeDPI\'yi Başlat</string>
+<string name="shortcut_connect_long">ByeDPI yi Başlat</string>
 <string name="shortcut_disconnect_short">Kes</string>
-<string name="shortcut_disconnect_long">ByeDPI\'yi Durdur</string>
+<string name="shortcut_disconnect_long">ByeDPI yi Durdur</string>
 <resources>
     <string name="byedpi_docs">https://github.com/hufrea/byedpi/blob/v0.13/README.md</string>
     <string name="app_name">ByeDPI</string>
