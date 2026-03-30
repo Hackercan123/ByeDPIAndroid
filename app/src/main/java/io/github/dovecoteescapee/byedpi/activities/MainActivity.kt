@@ -123,6 +123,15 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
+        when (intent?.action) {
+            "io.github.dovecoteescapee.byedpi.ACTION_CONNECT" -> {
+                start()
+            }
+            "io.github.dovecoteescapee.byedpi.ACTION_DISCONNECT" -> {
+                stop()
+            }
+        }
+
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
