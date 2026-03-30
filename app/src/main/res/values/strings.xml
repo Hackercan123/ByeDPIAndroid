@@ -72,9 +72,8 @@
     <string name="desync_https_category">HTTPS</string>
     <string name="byedpi_protocols_category">Protocols</string>
     <string name="byedpi_protocols_hint">Uncheck all to desync all traffic</string>
-    <string name="byedpi_protocols_hint">Uncheck all to desync all traffic</string>
-    <string name="shortcut_connect_short">Bağlan</string>
-    <string name="shortcut_connect_long">ByeDPI yi Başlat</string>
+    <string name="shortcut_connect_short">Baglan</string>
+    <string name="shortcut_connect_long">ByeDPI yi Baslat</string>
     <string name="shortcut_disconnect_short">Kes</string>
     <string name="shortcut_disconnect_long">ByeDPI yi Durdur</string>
 </resources>
